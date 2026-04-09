@@ -4,7 +4,6 @@ from thefuzz import fuzz
 from collections import Counter
 import time
 
-# --- Configuration ---
 API_KEY = "YOUR API KEY"
 API_SECRET = "YOUR API SECRET"
 USER_NAME = "YOUR USERNAME"
